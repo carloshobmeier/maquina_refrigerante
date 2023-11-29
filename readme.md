@@ -47,8 +47,7 @@ O funcionamento do moedeiro, nos mais diversos cenários no decorrer do fluxo do
 
 ## Prints do funcionamento
 
-<img src="https://raw.githubusercontent.com/carloshobmeier/Assets/main/maquina_refrigerante/funcionamento.jpg
-" width="900px">
+<img src="https://raw.githubusercontent.com/carloshobmeier/Assets/main/maquina_refrigerante/funcionamento.jpg" width="900px">
 
 
 ***
